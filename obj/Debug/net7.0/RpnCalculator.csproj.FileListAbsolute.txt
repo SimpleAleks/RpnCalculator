@@ -1,0 +1,15 @@
+C:\Projects\Common\RpnCalculator\bin\Debug\net7.0\RpnCalculator.exe
+C:\Projects\Common\RpnCalculator\bin\Debug\net7.0\RpnCalculator.deps.json
+C:\Projects\Common\RpnCalculator\bin\Debug\net7.0\RpnCalculator.runtimeconfig.json
+C:\Projects\Common\RpnCalculator\bin\Debug\net7.0\RpnCalculator.dll
+C:\Projects\Common\RpnCalculator\bin\Debug\net7.0\RpnCalculator.pdb
+C:\Projects\Common\RpnCalculator\obj\Debug\net7.0\RpnCalculator.csproj.AssemblyReference.cache
+C:\Projects\Common\RpnCalculator\obj\Debug\net7.0\RpnCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Common\RpnCalculator\obj\Debug\net7.0\RpnCalculator.AssemblyInfoInputs.cache
+C:\Projects\Common\RpnCalculator\obj\Debug\net7.0\RpnCalculator.AssemblyInfo.cs
+C:\Projects\Common\RpnCalculator\obj\Debug\net7.0\RpnCalculator.csproj.CoreCompileInputs.cache
+C:\Projects\Common\RpnCalculator\obj\Debug\net7.0\RpnCalculator.dll
+C:\Projects\Common\RpnCalculator\obj\Debug\net7.0\refint\RpnCalculator.dll
+C:\Projects\Common\RpnCalculator\obj\Debug\net7.0\RpnCalculator.pdb
+C:\Projects\Common\RpnCalculator\obj\Debug\net7.0\RpnCalculator.genruntimeconfig.cache
+C:\Projects\Common\RpnCalculator\obj\Debug\net7.0\ref\RpnCalculator.dll
